@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IX3Of9LoPkl2SZq+VNwRYb3QfX+M5hyMf9I8kd2taBtkBMzcdBVMIP3pBLuqtNdf/9i3zXeRloU9eNxEggKg/w==",
+  "dgSpecHash": "fSrgiVGE1+hE36VZNFsq/bqhsoMM+6IYQZEFVKldgq5LDdx20+G0yabCXl9H5Sf4SZI1w7boqvBUDc89PgRHlQ==",
   "success": true,
   "projectFilePath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.11\\microsoft.entityframeworkcore.analyzers.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.11\\microsoft.entityframeworkcore.design.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.11\\microsoft.entityframeworkcore.relational.6.0.11.nupkg.sha512",
+    "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.6\\microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.11\\microsoft.entityframeworkcore.sqlserver.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.11\\microsoft.entityframeworkcore.tools.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -262,3 +262,4 @@ F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\obj\Debug\net6.0
 F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.pdb
 F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.genruntimeconfig.cache
 F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\obj\Debug\net6.0\ref\UniversityApiBackend.dll
+F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
