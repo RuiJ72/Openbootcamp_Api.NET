@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jq/xfRIfwBh+y98vXZZSLFSj0TKi7EDr+GPlJy7Tb8C1KHuZdMV9aYBhL6F3ytr4LJ4cHC4AxFXZ23xyKK6MXQ==",
+  "dgSpecHash": "8ORjWyVroWpD2n28M/EZT+p9XqaO4OHDDEnKolkSxnjYf/IQkKSa9BOVC2NrmPIwXYc32gGE9yXiibfDI+V8xw==",
   "success": true,
   "projectFilePath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\microsoft.aspnetcore.authorization.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.11\\microsoft.aspnetcore.metadata.6.0.11.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
@@ -56,8 +57,8 @@
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.25.0\\microsoft.identitymodel.abstractions.6.25.0.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.25.0\\microsoft.identitymodel.jsonwebtokens.6.25.0.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.logging\\6.25.0\\microsoft.identitymodel.logging.6.25.0.nupkg.sha512",
-    "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.8.0\\microsoft.identitymodel.protocols.6.8.0.nupkg.sha512",
-    "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
+    "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.25.0\\microsoft.identitymodel.tokens.6.25.0.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.net.stringtools\\1.0.0\\microsoft.net.stringtools.1.0.0.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
