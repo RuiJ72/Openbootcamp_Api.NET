@@ -1,5 +1,6 @@
 // 1 - Using to work with entity framewwork
 using Microsoft.EntityFrameworkCore;
+using UniversityApiBackend;
 using UniversityApiBackend.DataAccess;
 using UniversityApiBackend.Services;
 
@@ -14,7 +15,7 @@ builder.Services.AddDbContext<UniversityDBContext>(options => options.UseSqlServ
 
 // 7 - Add Service of JWT Authorization
 // TODO: 
-//builder.Services.AddJwtTokenServices(builder.Configuration);
+builder.Services.AddJwtTokenServices(builder.Configuration);
 
 
 

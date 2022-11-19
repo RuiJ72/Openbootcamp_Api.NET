@@ -18,6 +18,8 @@ namespace UniversityApiBackend.Controllers
             _jwtSettings = jwtSettings;
         }
 
+        // Example Users
+        //TODO: Change by real users
         private IEnumerable<User> Logins = new List<User>()
         {
             new User()

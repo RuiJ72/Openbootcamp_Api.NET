@@ -272,3 +272,5 @@ F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0
 F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
 F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0\libman.json
+F:\C# Projects\OpenBootcamp\API\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
