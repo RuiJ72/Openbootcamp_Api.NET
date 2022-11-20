@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using UniversityApiBackend.DataAccess;
 using UniversityApiBackend.Helpers;
 using UniversityApiBackend.Models.DataModels;
 
@@ -9,12 +10,17 @@ namespace UniversityApiBackend.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+
+    
     public class AccountController : ControllerBase
     {
+        private readonly UniversityDBContext _context;
         private readonly JwtSettings _jwtSettings;
 
-        public AccountController(JwtSettings jwtSettings)
-        {
+
+        public AccountController(UniversityDBContext context, JwtSettings jwtSettings)
+        {   
+            _context = context;
             _jwtSettings = jwtSettings;
         }
 
@@ -39,11 +45,14 @@ namespace UniversityApiBackend.Controllers
         };
 
         [HttpPost]
-        public IActionResult GetToken(UserLogins userLogin)
+        public  IActionResult GetToken(UserLogins userLogin)
         {
             try
             {
                 var Token = new UserTokens();
+
+                //var searchUser = await _context.Users.FindAsync(userLogin.UserName);
+
                 var Valid = Logins.Any(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
 
                 if (Valid)

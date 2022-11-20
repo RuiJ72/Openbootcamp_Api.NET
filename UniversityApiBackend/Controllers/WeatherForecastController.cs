@@ -21,7 +21,7 @@ namespace UniversityApiBackend.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Administrator, User")]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Administrator ,User")]
         public IEnumerable<WeatherForecast> Get(string jwtBearerDefaults)
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast

@@ -1,4 +1,4 @@
-// 1 - Using to work with entity framewwork
+// 1 - Usings to work with entity framewwork
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using UniversityApiBackend;
