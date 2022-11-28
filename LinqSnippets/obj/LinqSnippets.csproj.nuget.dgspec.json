@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Projects\\OpenBootcamp\\API\\University\\LinqSnippets\\LinqSnippets.csproj": {}
+    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj": {}
   },
   "projects": {
-    "F:\\C# Projects\\OpenBootcamp\\API\\University\\LinqSnippets\\LinqSnippets.csproj": {
+    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Projects\\OpenBootcamp\\API\\University\\LinqSnippets\\LinqSnippets.csproj",
+        "projectUniqueName": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
         "projectName": "LinqSnippets",
-        "projectPath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\LinqSnippets\\LinqSnippets.csproj",
+        "projectPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
         "packagesPath": "C:\\Users\\Rui Lagos\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\LinqSnippets\\obj\\",
+        "outputPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rui Lagos\\AppData\\Roaming\\NuGet\\NuGet.Config",

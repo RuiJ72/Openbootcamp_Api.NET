@@ -52,18 +52,25 @@ namespace UniversityApiBackend.Controllers
                 var Token = new UserTokens();
 
                 //var searchUser = await _context.Users.FindAsync(userLogin.UserName);
+                //TODO: Search a user in context with LINQ
+                var searchUser = (from user in _context.Users
+                                 where user.Name == userLogin.UserName && user.Password == userLogin.Password
+                                 select user).FirstOrDefault();
 
-                var Valid = Logins.Any(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
+                
 
-                if (Valid)
+                //TODO: Change to searchUser
+                //var Valid = Logins.Any(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
+
+                if (searchUser != null)
                 {
-                    var user = Logins.FirstOrDefault(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
+                    //var user = Logins.FirstOrDefault(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
 
                     Token = JwtHelpers.GenTokenKey(new UserTokens()
                     {   
-                        UserName = user.Name,
-                        EmailId = user.Email,
-                        Id = user.Id,
+                        UserName = searchUser.Name,
+                        EmailId = searchUser.Email,
+                        Id = searchUser.Id,
                         GuidId = Guid.NewGuid(),
 
                     }, _jwtSettings);

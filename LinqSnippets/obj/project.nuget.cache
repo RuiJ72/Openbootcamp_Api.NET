@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j8F+rFXA5GB40KElCB3yQYSnTSFdBmD4le9jC1qAgpYI9RJfewARbikZESSjVPF3jJ27n4PlumXqZW6u60OYdw==",
+  "dgSpecHash": "4MWUn0ZJN9HyWgaLorlkfMNflK92AwccyssRpy0cB3krsPRQs0nS7kJvPzwt0zWd6kKU109P4nmm6yFB9ebL8g==",
   "success": true,
-  "projectFilePath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\LinqSnippets\\LinqSnippets.csproj",
+  "projectFilePath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

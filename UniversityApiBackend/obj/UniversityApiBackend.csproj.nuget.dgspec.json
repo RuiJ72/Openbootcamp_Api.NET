@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj": {}
+    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj": {}
   },
   "projects": {
-    "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj": {
+    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+        "projectUniqueName": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
         "projectName": "UniversityApiBackend",
-        "projectPath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+        "projectPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
         "packagesPath": "C:\\Users\\Rui Lagos\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\obj\\",
+        "outputPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rui Lagos\\AppData\\Roaming\\NuGet\\NuGet.Config",

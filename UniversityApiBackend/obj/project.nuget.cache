@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ORjWyVroWpD2n28M/EZT+p9XqaO4OHDDEnKolkSxnjYf/IQkKSa9BOVC2NrmPIwXYc32gGE9yXiibfDI+V8xw==",
+  "dgSpecHash": "SIMQWxqT3tQ2xuLQmTi1KCeGBZRFqGdAugCSXVDKcpa685oEpCmtWon4NKxoqR16QgFvKZRGrCfC1d9lN4bbcA==",
   "success": true,
-  "projectFilePath": "F:\\C# Projects\\OpenBootcamp\\API\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+  "projectFilePath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rui Lagos\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
