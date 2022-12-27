@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj": {}
+    "E:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj": {}
   },
   "projects": {
-    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj": {
+    "E:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
+        "projectUniqueName": "E:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
         "projectName": "UniversityApiBackend",
-        "projectPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
-        "packagesPath": "C:\\Users\\Rui Lagos\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\obj\\",
+        "projectPath": "E:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\UniversityApiBackend.csproj",
+        "packagesPath": "C:\\Users\\rlago\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Projects\\OpenBootcamp\\API em .NET\\UniversityApiBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rui Lagos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rlago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,6 +74,26 @@
               "target": "Package",
               "version": "[6.0.10, )"
             },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.Debug": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -102,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

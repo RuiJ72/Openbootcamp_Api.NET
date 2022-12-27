@@ -19,7 +19,7 @@ namespace UniversityApiBackend.Controllers
 
 
         public AccountController(UniversityDBContext context, JwtSettings jwtSettings)
-        {   
+        {
             _context = context;
             _jwtSettings = jwtSettings;
         }
@@ -64,7 +64,7 @@ namespace UniversityApiBackend.Controllers
 
                 if (searchUser != null)
                 {
-                    //var user = Logins.FirstOrDefault(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
+                    var user = Logins.FirstOrDefault(user => user.Name.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
 
                     Token = JwtHelpers.GenTokenKey(new UserTokens()
                     {   

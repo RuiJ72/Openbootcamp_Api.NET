@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj": {}
+    "E:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj": {}
   },
   "projects": {
-    "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj": {
+    "E:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
+        "projectUniqueName": "E:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
         "projectName": "LinqSnippets",
-        "projectPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
-        "packagesPath": "C:\\Users\\Rui Lagos\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\obj\\",
+        "projectPath": "E:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\LinqSnippets.csproj",
+        "packagesPath": "C:\\Users\\rlago\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Projects\\OpenBootcamp\\API em .NET\\LinqSnippets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rui Lagos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rlago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

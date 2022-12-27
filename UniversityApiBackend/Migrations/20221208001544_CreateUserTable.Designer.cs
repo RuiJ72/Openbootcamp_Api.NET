@@ -12,7 +12,7 @@ using UniversityApiBackend.DataAccess;
 namespace UniversityApiBackend.Migrations
 {
     [DbContext(typeof(UniversityDBContext))]
-    [Migration("20221127125705_Create User Table")]
+    [Migration("20221208001544_CreateUserTable")]
     partial class CreateUserTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
